@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
@@ -21,7 +21,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Add headers
+##### Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -64,7 +64,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+ this is a meanful message that i change the header sizes on a couple lines... -zt
 <footer>
 
 <!--
